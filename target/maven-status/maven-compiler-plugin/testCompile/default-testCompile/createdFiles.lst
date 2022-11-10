@@ -1,0 +1,5 @@
+slider\HomePageSliderTests.class
+accesibility\KeyboardOnlyNavigationTests.class
+base\BaseTests.class
+login_logout\LoginLogoutTests.class
+sign_up\SignUpTests.class
